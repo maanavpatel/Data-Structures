@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "stack": "cpp",
+        "iterator": "cpp",
+        "array": "cpp",
+        "regex": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "queue": "cpp",
+        "set": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "random": "cpp",
+        "tuple": "cpp",
+        "iostream": "cpp"
+    }
+}
